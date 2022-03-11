@@ -1,0 +1,9 @@
+void setup() {
+  pinMode(13, OUTPUT);
+}
+void loop() {
+  digitalWrite(13, HIGH);  //Peltiye yonsin
+  delay(3600);              //Peltiye kutsin
+  digitalWrite(13, LOW);    //Peltiye yonsin
+  delay(3600);              //Peltiye kutsin
+}
