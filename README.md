@@ -1,4 +1,4 @@
-# Havodan_suv_olish.                              
+# Havodan_suv_olish                              
 BABM Farg'ona tumani.                                                   
 Hurmatillo Oxunov Xikmatillayevich                              
 #Farg'ona,Vodil!                                                        
